@@ -1,3 +1,7 @@
+# ultralytics-nogui
+This is a fork of the Ultralytics library. The only difference is that this repo uses opencv-python-headless instead of opencv-python.
+
+# The original README
 <div align="center">
   <p>
     <a href="https://github.com/ultralytics/assets/releases/tag/v8.2.0" target="_blank">
